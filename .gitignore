@@ -1,3 +1,8 @@
 angular4/node_modules/
 angular5/node_modules/
 angular6/node_modules/
+angular7/.idea/inspectionProfiles/Project_Default.xml
+*.iml
+angular7/.idea/misc.xml
+angular7/.idea/workspace.xml
+angular7/node_modules/
